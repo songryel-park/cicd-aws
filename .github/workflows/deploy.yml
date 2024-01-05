@@ -41,4 +41,4 @@ jobs:
           port: 22
           script_stop: true
           script: |
-             nohup java -jar *.jar 
+             java -jar *.jar 
